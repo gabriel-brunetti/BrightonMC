@@ -354,7 +354,6 @@ html {
 body {
   background: #fff;
   font-size: 1.4rem;
-  border-top: 0.5rem solid #0054a6;
 }
 
 @media (min-width: 52.5em) {
